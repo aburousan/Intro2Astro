@@ -1,0 +1,23 @@
+[
+    {
+        "question": "Is there Na absorption line in the plot?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "code": "Yes",
+                "correct": true,
+                "feedback": "Correct.. I am not going to make a Sodium joke... don't worry"
+            },
+            {
+                "code": "No",
+                "correct": false,
+                "feedback": "Have you checked correctly?"
+            },
+            {
+                "code": "No Idea",
+                "correct": false,
+                "feedback": "You are here to get the idea!.. Check the link below."
+            }
+        ]
+    }
+]
