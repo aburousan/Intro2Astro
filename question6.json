@@ -1,0 +1,40 @@
+[
+    {
+        "question": "What is the value of T you are getting?",
+        "type": "numeric",
+        "precision": 2,
+        "answers": [
+            {
+                "type": "range",
+                "range": [
+                    2.70,
+                    2.72
+                ],
+                "correct": true,
+                "feedback": "Happy Happy dancing cat..."
+            },
+            {
+                "type": "default",
+                "feedback": "Crying Cat telling you to try again."
+            }
+        ]
+    },
+    {
+        "question": "What is the error?",
+        "type": "numeric",
+        "answers": [
+            {
+                "type": "value",
+                "value": 0.004,
+                "correct": true,
+                "feedback": "Ghost in your room congratulating you!"
+            },
+            {
+                "type": "default",
+                "feedback": "Hawking's want to know your location."
+            }
+        ]
+    }
+
+
+]
