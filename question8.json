@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What is the value you are finding for T of Betelgeuse?",
+        "type": "numeric",
+        "precision": 4,
+        "answers": [
+            {
+                "type": "range",
+                "range": [
+                    12.4113,
+                    12.41145
+                ],
+                "correct": true,
+                "feedback": "Tom's happy but evil smile."
+            },
+            {
+                "type": "default",
+                "feedback": "Why man why?, You just had to change a variable name."
+            }
+        ]
+    }
+]
