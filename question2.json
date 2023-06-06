@@ -1,6 +1,6 @@
 [
     {
-        "question": "Enter the value of $\pi$ upto 4 decimal places.",
+        "question": "Enter the value of $\\pi$ upto 4 decimal places.",
         "type": "numeric",
         "precision": 3,
         "answers": [
