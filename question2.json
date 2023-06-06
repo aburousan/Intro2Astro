@@ -30,7 +30,7 @@
             {
                 "type": "range",
                 "range": [
-                    3.1401,
+                    3.142,
                     3.16
                 ],
                 "correct": true,
