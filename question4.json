@@ -1,0 +1,21 @@
+[
+    {
+        "question": "What is the area you are getting? Write upto 4 decimal places",
+        "type": "numeric",
+        "precision": 4,
+        "answers": [
+            {
+                "type": "range",
+                "range": [
+                    4.0253,
+                    4.0255
+                ],
+                "correct": true,
+                "feedback": "Good!...Frieza happy laughing noise."
+            },
+            {
+                "type": "default",
+                "feedback": "TRy aggain... You are lucky, I can't use meme here."
+            }
+        ]
+    }]
