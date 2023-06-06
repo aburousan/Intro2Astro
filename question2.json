@@ -21,8 +21,17 @@
             {
                 "type": "range",
                 "range": [
-                    3.1350,
-                    3.1424
+                    3.10,
+                    3.14
+                ],
+                "correct": true,
+                "feedback": "Good!... It's not that efficient as you can see."
+            },
+            {
+                "type": "range",
+                "range": [
+                    3.1401,
+                    3.16
                 ],
                 "correct": true,
                 "feedback": "Good!... It's not that efficient as you can see."
