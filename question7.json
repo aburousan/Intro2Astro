@@ -1,0 +1,43 @@
+[
+    {
+        "question": "What's the value of $E_0$ of a proton ... you are getting?(in MeV)",
+        "type": "numeric",
+        "precision": 2,
+        "answers": [
+            {
+                "type": "range",
+                "range": [
+                    938.271,
+                    938.273
+                ],
+                "correct": true,
+                "feedback": "Good Good"
+            },
+            {
+                "type": "default",
+                "feedback": "Failure!"
+            }
+        ]
+    },
+    {
+        "question": "What's the value of $E_0$ of a proton ... you are getting?(in MeV)",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "code": "$1.5033\\times 10^{−10}J$",
+                "correct": true,
+                "feedback": "Correct but in batman voice"
+            },
+            {
+                "code": "$1.4533 \\times 10^{-10}J$",
+                "correct": false
+            },
+            {
+                "code": "$1.6033\\times 10^{−10}J$",
+                "correct": false
+            }
+        ]
+    }
+
+
+]
