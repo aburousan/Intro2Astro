@@ -1,0 +1,44 @@
+[
+    {
+        "question": "Enter the value of $\pi$ upto 4 decimal places.",
+        "type": "numeric",
+        "precision": 3,
+        "answers": [
+            {
+                "type": "value",
+                "value": 3.1415,
+                "correct": true,
+                "feedback": "Correct.",
+                "feedback": "Hey!... I know you can't get all correct digits.  You are lucky, I can't use meme here."
+            },
+            {
+                "type": "value",
+                "value": 3.1416,
+                "correct": true,
+                "feedback": "Correct.",
+                "feedback": "Hey!... I know you can't get all correct digits... WTF"
+            },
+            {
+                "type": "range",
+                "range": [
+                    3.1350,
+                    3.1424
+                ],
+                "correct": true,
+                "feedback": "Good!... It's not that efficient as you can see."
+            },
+            {
+                "type": "range",
+                "range": [
+                    -100000000,
+                    0
+                ],
+                "correct": false,
+                "feedback": "WTF! Why negative!!!... You are lucky, I can't use meme here."
+            },
+            {
+                "type": "default",
+                "feedback": "TRy aggain... You are lucky, I can't use meme here."
+            }
+        ]
+    }]
