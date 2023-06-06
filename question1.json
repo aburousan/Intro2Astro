@@ -1,0 +1,36 @@
+[
+    {
+        "question": "Enter the value of $v$ upto 2 decimal places.",
+        "type": "numeric",
+        "precision": 2,
+        "answers": [
+            {
+                "type": "value",
+                "value": 11179.91,
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "type": "range",
+                "range": [
+                    11179.90,
+                    11179.90725689236
+                ],
+                "correct": true,
+                "feedback": "True to 2 decimal places, but you know $v$ has to be rounded, right?"
+            },
+            {
+                "type": "range",
+                "range": [
+                    -100000000,
+                    0
+                ],
+                "correct": false,
+                "feedback": "How can it be negative?, Be positive"
+            },
+            {
+                "type": "default",
+                "feedback": "Try again man"
+            }
+        ]
+    }]
