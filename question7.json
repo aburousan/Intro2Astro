@@ -24,16 +24,16 @@
         "type": "multiple_choice",
         "answers": [
             {
-                "code": "$1.5033\\times 10^{−10}J$",
+                "code": "1.5033 X 10^{−10} J",
                 "correct": true,
                 "feedback": "Correct but in batman voice"
             },
             {
-                "code": "$1.4533 \\times 10^{-10}J$",
+                "code": "1.4533 X 10^{-10} J",
                 "correct": false
             },
             {
-                "code": "$1.6033\\times 10^{−10}J$",
+                "code": "1.6033 X 10^{−10} J",
                 "correct": false
             }
         ]
